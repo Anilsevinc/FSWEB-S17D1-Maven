@@ -1,6 +1,6 @@
-package com.workintech.fsswebs17d1.controller;
+package com.workintech.fswebs17d1.controller;
 
-import com.workintech.fsswebs17d1.entity.Animal;
+import com.workintech.fswebs17d1.entity.Animal;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.*;
 
